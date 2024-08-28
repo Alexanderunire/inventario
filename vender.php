@@ -176,8 +176,8 @@
 
 <body>
     <div class="titulo-container">
-        <a class="btn-container btn btn-atras" href="./inicio.php" role="button">Atrás</a>
-        <div class="titulo">SECCION DE VENTAS</div>
+        <a class="btn-container btn btn-atras" href="./inicio.php" role="button">regresar</a>
+        <div class="titulo">SECCION DE VENTAS prueba cambio</div>
         <div class="btn-container">
             <button class="btn btn-agregar-producto" onclick="mostrarModalAgregar()">Agregar Producto</button>
             <a class="btn btn-comprar" href="./pedidos.php" role="button">Comprar</a>
