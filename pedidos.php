@@ -188,7 +188,7 @@
         <!-- Imágenes con detalles de productos -->
         <div class="producto">
             <img id="imagenProducto1"
-                src="https://myself23.com/wp-content/uploads/2022/09/B44-scaled.jpg"
+                src="https://th.bing.com/th/id/OIP.rvmvFPTefTkwqV7chOi3wwHaHa?w=195&h=195&c=7&r=0&o=5&dpr=1.5&pid=1.7.jpg"
                 onclick="mostrarModal('Camiseta', '20.00')">
             <div>Camiseta</div>
         </div>
